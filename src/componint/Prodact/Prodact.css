@@ -1,0 +1,13 @@
+.prodact{
+    width: 250px;
+    background-color: black;
+    padding: 25px;
+}
+.prodact img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+.prodact p{
+    color: white;
+}

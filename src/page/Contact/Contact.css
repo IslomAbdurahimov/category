@@ -1,0 +1,16 @@
+.contact h1{
+    font-size: 5.4rem;
+}
+.contact img{
+    width: 500px;
+    border-radius: 50%;
+}
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 150px;
+}
+.img_contact h2{
+    margin: 20px;
+}

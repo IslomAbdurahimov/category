@@ -1,0 +1,20 @@
+.products_product img {
+  width: 250px;
+  height: 250px;
+  background-color: black;
+  padding: 20px;
+}
+.products_product {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 30px 0;
+}
+.prodact1{
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4,auto);
+  grid-gap:20px;
+}
+
+
